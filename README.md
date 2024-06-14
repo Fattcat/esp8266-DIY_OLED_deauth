@@ -17,7 +17,9 @@
 -  GND --> GND
 -  SCL  --> D2
 -  SDA  --> D1
--  In some cases you need to switch from SCL --> D2, SDA --> D1 to SCL --> D1, SDA --> D2 (just switch pins iu your OLED not showing anything ...)
+-  In some cases you need to switch from SCL --> D2, SDA --> D1
+-  to SCL --> D1, SDA --> D2
+-  (just switch pins iu your OLED not showing anything ...)
 ## esp8266  --> Buttons
 - D5  --> Button UP
 - D6  --> Button DOWN
